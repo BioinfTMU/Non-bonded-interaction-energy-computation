@@ -18,3 +18,6 @@ CPU program and GPU program. This comparison shows that increasing number of
 computation, CPU time exponentially increases and GPU time linearly increases and GPU
 Time is lower than CPU time.
 </p>
+
+</br></br>
+<h2>Team members:</h2>
