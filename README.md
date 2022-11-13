@@ -2,7 +2,7 @@
 CPU and parallelized GPU implementation
 
 </br>
-<p text-align: justify>
+<p align="justify">
 The folding of proteins is one of the biggest problems in every field of science related to
 Biochemistry. Before entering water solutes, proteins do not have a three-dimensional
 structure. After entering water solutes due to emerging forces between the solute and the
