@@ -12,7 +12,7 @@ Non-bonded interactions are one of the most influential factors to protein foldi
 comprise of three major interaction: Vander Waals interactions, electrostatic interactions and
 hydrogen bonds. Our goal in this project is to compute all of the interactions of these kinds
 inside a PDB file and parallelize these computations using GPU programming. For this
-purpose, we use a parallel computing platform called CUDA. We use python <a href="http://numba.pydata.org/">Numba
+purpose, we use a parallel computing platform called <a href="https://developer.nvidia.com/cuda-toolkit">CUDA</a>. We use python <a href="http://numba.pydata.org/">Numba
 package</a> to parallelize computations. In the end, we compare the computation time of the
 CPU program and GPU program. This comparison shows that increasing number of
 computation, CPU time exponentially increases and GPU time linearly increases and GPU
