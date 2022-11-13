@@ -21,7 +21,7 @@ Time is lower than CPU time.
 
 </br></br>
 <h2>Team members:</h2>
-Alireza Doostmohammdi: M.Sc. student at Bioinformatics laboratory of Tarbiat modares University (a.doustmohammadi@modares.ac.ir)
+Alireza Doustmohammdi: M.Sc. student at Bioinformatics laboratory of Tarbiat modares University (a.doustmohammadi@modares.ac.ir)
 </br></br>
 Seyed Ali Mirmostafa:  M.Sc. student at Bioinformatics laboratory of Tarbiat modares University (S.mirmostafa@modares.ac.ir)
 </br></br>
